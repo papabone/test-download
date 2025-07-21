@@ -1,0 +1,8 @@
+{
+  "Content-Disposition": "attachment; filename=example.txt", 
+  "Content-Length": "160", 
+  "Content-Type": [
+    "application/json", 
+    "text/plain"
+  ]
+}
